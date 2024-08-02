@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Mobile",
+        "products": [
+            {
+                "name": "Samsung Galaxy S21",
+                "price": 799.99,
+                "image": "https://via.placeholder.com/150/0000FF/808080?text=Samsung+Galaxy+S21",
+                "discount_price": 699.99
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Refrigerator",
+        "products": [
+            {
+                "name": "LG Smart Refrigerator",
+                "price": 1199.99,
+                "image": "https://via.placeholder.com/150/FF0000/FFFFFF?text=LG+Smart+Refrigerator",
+                "discount_price": 1099.99
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Mouse",
+        "products": [
+            {
+                "name": "Logitech MX Master 3",
+                "price": 99.99,
+                "image": "https://via.placeholder.com/150/00FF00/000000?text=Logitech+MX+Master+3",
+                "discount_price": 89.99
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Printer",
+        "products": [
+            {
+                "name": "HP LaserJet Pro",
+                "price": 299.99,
+                "image": "https://via.placeholder.com/150/FFFF00/000000?text=HP+LaserJet+Pro",
+                "discount_price": 249.99
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Television",
+        "products": [
+            {
+                "name": "Sony Bravia 55\" 4K",
+                "price": 999.99,
+                "image": "https://via.placeholder.com/150/000000/FFFFFF?text=Sony+Bravia+55+4K",
+                "discount_price": 899.99
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Processor",
+        "products": [
+            {
+                "name": "Intel Core i9-11900K",
+                "price": 549.99,
+                "image": "https://via.placeholder.com/150/FF00FF/000000?text=Intel+Core+i9-11900K",
+                "discount_price": 499.99
+            }
+        ]
+    }
+]

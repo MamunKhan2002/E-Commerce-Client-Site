@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Televisions",
+        "image": "https://i.ibb.co/wch5wt0/nsihw1sijo2620qyuq4j.webp"
+    },
+    {
+        "id": 2,
+        "name": "Mobiles",
+        "image": "https://i.ibb.co/nPqQRfL/mobile.png"
+    },
+    {
+        "id": 3,
+        "name": "Refrigerator",
+        "image": "https://i.ibb.co/BVKMMGs/Refrigerator.png"
+    },
+    {
+        "id": 4,
+        "name": "Processor",
+        "image": "https://i.ibb.co/cXRbNPt/pngegg.png"
+    },
+    {
+        "id": 5,
+        "name": "Mouse",
+        "image": "https://i.ibb.co/68gfv4Y/mouse.png"
+    },
+    {
+        "id": 6,
+        "name": "Printer",
+        "image": "https://i.ibb.co/YfYdkjL/Processor-png.png"
+    },
+    {
+        "id": 7,
+        "name": "Camera",
+        "image": "https://i.ibb.co/QKRg7dr/camera.png"
+    },
+    {
+        "id": 8,
+        "name": "Earphones",
+        "image": "https://i.ibb.co/QFk1H4h/siettlp27nrfc6lqy8au.webp"
+    },
+    {
+        "id": 9,
+        "name": "Speaker",
+        "image": "https://i.ibb.co/s5mmPqP/jumk59korrtmyfnlrhfx.webp"
+    },
+    {
+        "id": 10,
+        "name": "Trimmers",
+        "image": "https://i.ibb.co/qRhQ8bS/Trimmer.png"
+    },
+    {
+        "id": 11,
+        "name": "Watches",
+        "image": "https://i.ibb.co/SNjrCQQ/t1ulow0rzamdwmlbq9js.webp"
+    },
+    {
+        "id": 12,
+        "name": "Airpodes",
+        "image": "https://i.ibb.co/xS6Mhjs/pibsza3qmxwaddczgppr.webp"
+    }
+]
